@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "test cypress working",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "author": "Branislav Zoric",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branislavzoric/Cypress-Bioclinica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/branislavzoric/Cypress-Bioclinica/issues"
+  },
+  "homepage": "https://github.com/branislavzoric/Cypress-Bioclinica#readme",
+  "devDependencies": {
+    "cypress": "^3.3.0"
+  },
+  "integrationFolder": "cypress/Bioclinica Test"
+}
